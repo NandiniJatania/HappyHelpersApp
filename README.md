@@ -16,13 +16,18 @@ Emergency Alerts: Get emails notifying donors of emergency situations, ensuring 
 How It Works:
 
 Sign Up / Log In: Users can sign up as either donors or donees. Existing users can log in to their accounts.
+
 Profile Setup: Set up your profile with necessary details. Donors can specify their areas of interest, while donees provide information about their needs.
 
 Search & Connect:
 
 Donors: Search for causes, view authentic donees, and make donations.
+
 Donees: List your needs and connect with potential donors.
+
 Verification: Donees undergo a verification process to ensure authenticity and build trust with donors.
+
 Donation Process:
+
 In Kind Donations: Donors can choose to make donations in kind through the platform, ensuring safe and secure transactions.
 Emergency Situations: In case of emergencies, donees can send alerts to donors, prompting immediate assistance.
